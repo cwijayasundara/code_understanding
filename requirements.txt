@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+tiktoken
+python-dotenv
+chromadb
+esprima
+tree_sitter
+tree_sitter_languages
+streamlit
+PyGithub
